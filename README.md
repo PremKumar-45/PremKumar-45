@@ -76,8 +76,9 @@ A project focused on managing technician assignments and service requests.
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR-USERNAME
-- LinkedIn: Add your LinkedIn profile link here
+- GitHub: https://github.com/YOUR-PremKumar-45
+- LinkedIn: www.linkedin.com/in/prem-kumar270
+
 
 ---
 
